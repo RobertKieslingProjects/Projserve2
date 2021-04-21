@@ -8,5 +8,5 @@ import com.group3.springrest.models.Recipes;
 
 @Repository
 public interface RecipeRepository extends JpaRepository<Recipes, Long>{
-    public static 
+
 }
